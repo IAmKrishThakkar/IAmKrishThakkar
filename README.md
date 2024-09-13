@@ -39,10 +39,11 @@
 ## 📊 GitHub Stats
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmKrishThakkar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmKrishThakkar&layout=compact&count_private=true&token=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)
+
 
 ### GitHub Stats
-![Krish Thakkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmKrishThakkar&show_icons=true&theme=radical)
+![Krish Thakkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmKrishThakkar&show_icons=true&theme=radical&count_private=true&token=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)
 
 ## 📫 How to reach me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakkar-krish-7726452aa/)
