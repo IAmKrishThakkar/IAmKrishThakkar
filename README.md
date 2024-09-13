@@ -34,14 +34,14 @@
 - **Microservices in .NET Core**
 
 ## 🚀 Projects
-- **[Students Attendece App](#)**: A brief description of one of your standout projects.
+- **[Students Attendance App](#)**: A brief description of one of your standout projects.
 
 ## 📈 GitHub Stats
-![Krish Thakkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmKrishThakkar_icons=true&theme=radical)
+![Krish Thakkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmKrishThakkar&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/thakkar-krish-7726452aa/))
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourprofile](https://x.com/ThakkarKrish6))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakkar-krish-7726452aa/)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ThakkarKrish6)
 
 ## 🤔 Let's collaborate on interesting projects!
 Feel free to contact me for open source collaboration, freelance work, or any exciting ideas.
