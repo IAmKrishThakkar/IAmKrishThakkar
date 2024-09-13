@@ -34,7 +34,7 @@
 - **Microservices in .NET Core**
 
 ## 🚀 Projects
-- **[Students Attendance App](#)**: A Kotlin Jetpack Compose application that integrates with MySQL and REST APIs.
+- **[Students Attendance App](https://github.com/IAmKrishThakkar/ProjectAndroid)**: A Kotlin Jetpack Compose application that integrates with MySQL and REST APIs.
 
 
 ## 📫 How to reach me
