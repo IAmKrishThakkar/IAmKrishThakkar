@@ -50,3 +50,13 @@ Feel free to contact me for open source collaboration, freelance work, or any ex
 ---
 
 ⭐️ From [Krish Thakkar](https://github.com/IAmKrishThakkar)
+
+---
+
+### Animated GIFs
+To add animations, you can use GIFs for logos or badges. Here’s an example of an animated GitHub Octocat GIF:
+![GitHub Octocat](https://github.com/logos/github.png)
+
+### Example Custom Animated GIF
+You can create or use existing animated GIFs to represent your skills or tools:
+![Flutter Animation](https://camo.githubusercontent.com/7e8e9b9c749eae038dc953881f11a2c28d9ecba0/687474703a2f2f63646e2e726563742e6c65752f6c6f676f732f666c75747465722d616e696d6174652e676966)
