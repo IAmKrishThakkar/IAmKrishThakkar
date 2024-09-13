@@ -19,6 +19,8 @@
 ### 🧩 Frameworks & Libraries:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black)
 
 ### 🗄 Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
@@ -32,6 +34,8 @@
 ## 🌱 Currently Learning:
 - **Advanced Flutter Development** 🚀
 - **Microservices in .NET Core** 🔧
+- **React JS** ⚛️
+- **React Native** 📱
 
 ## 🚀 Projects:
 - **[Students Attendance App](https://github.com/IAmKrishThakkar/ProjectAndroid)**: A Kotlin Jetpack Compose application that integrates with MySQL and REST APIs. 📚
