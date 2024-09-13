@@ -37,7 +37,7 @@
 - **[Students Attendece App](#)**: A brief description of one of your standout projects.
 
 ## 📈 GitHub Stats
-![Krish Thakkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Krish Thakkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmKrishThakkar_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/thakkar-krish-7726452aa/))
