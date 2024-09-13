@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Krish Thakkar
 
 **I'm a passionate programmer and developer specializing in Android applications and full-stack development.**
 
@@ -34,19 +34,17 @@
 - **Microservices in .NET Core**
 
 ## 🚀 Projects
-- **[Project Name](#)**: A brief description of one of your standout projects.
-- **[Project Name](#)**: Another impressive project.
-- **[Project Name](#)**: Highlight more of your work.
+- **[Students Attendece App](#)**: A brief description of one of your standout projects.
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Krish Thakkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/thakkar-krish-7726452aa/))
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourprofile](https://x.com/ThakkarKrish6))
 
 ## 🤔 Let's collaborate on interesting projects!
 Feel free to contact me for open source collaboration, freelance work, or any exciting ideas.
 
 ---
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Krish Thakkar](https://github.com/IAmKrishThakkar)
