@@ -57,7 +57,7 @@
 ---
 
 ## 📫 **Let’s Connect:**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakkar-krish-7726452aa/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-thakkar-7726452aa/)
 - [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ThakkarKrish6)
 
 ## 🤔 **Let’s Create Something Amazing Together!**
