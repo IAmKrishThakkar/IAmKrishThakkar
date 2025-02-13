@@ -66,3 +66,9 @@ Feel free to reach out for open-source collaborations, freelance work, or to bra
 ---
 
 ⭐️ **From** [Krish Thakkar](https://github.com/IAmKrishThakkar)
+
+
+
+<img src="https://raw.githubusercontent.com/IAmKrishThakkar/IAmKrishThakkar/output/snake.svg" alt="Snake animation" />
+
+###
