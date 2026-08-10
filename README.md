@@ -56,12 +56,6 @@ Simple QR-accessible college canteen menu with admin CRUD for menu items and pri
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IAmKrishThakkar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
   
 **[iamkrishthakkar.vercel.app](https://iamkrishthakkar.vercel.app/)**
 
