@@ -1,94 +1,136 @@
 <div align="center">
-  
-  # Hi, I'm Krish Thakkar 👋
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Practical+Web+Apps;Crafting+REST+APIs;Integrating+AI+Capabilities" alt="Typing SVG" />
 
-  <p>Building scalable, intelligent web experiences that combine clean architecture with practical design.</p>
+# Krish Thakkar
 
-  <p>
-    <a href="https://iamkrishthakkar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://www.linkedin.com/in/krish-thakkar-7726452aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://x.com/ThakkarKrish6"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="https://github.com/IAmKrishThakkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
+**Full-Stack Developer**
+
+Building practical web applications, REST APIs, and AI-powered products.
+
+[Portfolio](https://iamkrishthakkar.vercel.app/) &nbsp;&middot;&nbsp; [GitHub](https://github.com/IAmKrishThakkar) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/krish-thakkar-7726452aa/)
+
 </div>
 
-<br>
+---
 
-## ⚡ What I Build
-- 💻 **Full-stack web applications** with clean architecture and responsive design.
-- 🔌 **REST APIs** that are secure, structured, and well-documented.
-- 🤖 **AI integrations** bringing intelligent capabilities to software products.
-- 🛠️ **Real-world projects** aimed at solving concrete problems.
+## About
 
-<br>
+I am a Full-Stack Developer focused on building functional, real-world web applications and REST APIs using React and Node.js. Currently pursuing my M.Sc. in Computer Applications, I have a strong interest in AI integration and backend systems engineering.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🔹 Languages & Frameworks
+**Languages**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
 
-### 🔹 Databases, Tools & APIs
+**Frontend**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/React.js-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
 </p>
 
-<br>
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-161B22?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=json&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT_Auth-161B22?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
 
-## 🚀 Featured Projects
+**Database**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-161B22?style=flat-square&logo=mongoose&logoColor=880000" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+</p>
 
-### 🧠 Buildify-AI
-<p><i>M.Sc. Computer Applications Semester 1 Project</i></p>
+**AI & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-161B22?style=flat-square&logo=google&logoColor=4285F4" alt="Gemini" />
+  <img src="https://img.shields.io/badge/AI_Integration-161B22?style=flat-square&logo=openai&logoColor=white" alt="AI Integration" />
+  <img src="https://img.shields.io/badge/API_Design-161B22?style=flat-square&logo=postman&logoColor=FF6C37" alt="API Design" />
+</p>
 
-An AI-powered website builder that converts natural-language prompts into functional React websites. 
-- **Key Features:** AI-assisted code generation, WebContainer-based live browser preview, JWT authentication, OTP verification, project management, and Razorpay payment functionality. Thoroughly tested across APIs, security, and UI.
-- **Stack:** React, Node.js, Express.js, MongoDB, Google Gemini API, WebContainer, Razorpay.
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05033" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/WebContainer-161B22?style=flat-square&logo=stackblitz&logoColor=1389FD" alt="WebContainer" />
+  <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Razorpay-161B22?style=flat-square&logo=razorpay&logoColor=02042B" alt="Razorpay" />
+</p>
 
 ---
 
-### 💬 QOTD API
+## Featured Project
+
+### Buildify-AI
+AI-powered website builder built as my M.Sc. Computer Applications Semester 1 project. It translates natural-language prompts into functional React websites using the Google Gemini API.
+
+**Architecture & Features:**
+- React frontend
+- Node.js / Express backend
+- MongoDB / Mongoose database
+- Google Gemini API for code generation
+- WebContainer for live browser preview
+- JWT authentication & OTP verification
+- Razorpay payment functionality
+- Project management and deployment workflow
+- Admin functionality
+
+*(Note: This project was an academic implementation and is not currently publicly live, as the Gemini API usage requires paid access.)*
+
+---
+
+## Other Projects
+
+### QOTD API
 A robust REST API project for quote management.
-- **Key Features:** API-key authentication, secure API endpoints, usage logging/analytics, admin interface, and a React frontend.
-- **Stack:** Node.js, Express.js, MongoDB, React.
+- Built with Node.js, Express.js, and MongoDB
+- API-key authentication
+- Usage logging and analytics
+- Admin interface for managing records
+
+<br>
+
+### Bros Cafe
+A website created for a college friend's canteen to provide quick digital access to the menu.
+- Admin can add, edit, and delete menu items and prices
+- Users can view the menu
+- QR code provides quick access to the menu
 
 ---
 
-### ☕ Bros Cafe
-A practical, real-world website built for a college canteen. 
-- **Key Features:** Admin interface to manage menu items and prices. Students can quickly view the menu by scanning a QR code.
-- **Stack:** React, Node.js, Express.js, MongoDB.
+## Current Focus
 
-<br>
+- Backend engineering
+- Python
+- AI/LLM application development
+- System design fundamentals
+- Writing maintainable full-stack applications
 
-## 📈 GitHub Analytics
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IAmKrishThakkar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Krish's GitHub Stats" />
-</p>
-
-<br>
-
-## 🌱 Currently Learning
-- ⚙️ **Backend Engineering** & **System Design Fundamentals**
-- 🐍 **Python** for deeper backend/scripting integrations
-- 🤖 **AI/LLM Application Development**
-
-<br>
+## GitHub Activity
 
 <div align="center">
-  <p><i>Building practical solutions with modern technology.</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=IAmKrishThakkar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
+
+---
+
+## Contact
+
+- **Portfolio:** [iamkrishthakkar.vercel.app](https://iamkrishthakkar.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/krish-thakkar-7726452aa](https://www.linkedin.com/in/krish-thakkar-7726452aa/)
+- **X:** [x.com/ThakkarKrish6](https://x.com/ThakkarKrish6)
+- **GitHub:** [github.com/IAmKrishThakkar](https://github.com/IAmKrishThakkar)
